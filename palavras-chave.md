@@ -28,3 +28,8 @@ export function download(videoId) {
 a função download () que está sendo exportada e importada na index.js está recebendo uma váriavel (videoId) que será
 recebido o valor de request.params.id na pasta server/index.js ficando download(request.params.id)
 --------------------------------------------------------------------
+
+AULA NLWIA - AULA 03
+
+A TAG FORM OU SEÇÃO DE FORMULARIO TEM COMO OBJETIVO
+EXTRAIR INFORMAÇÕES DO USUÁRIO
